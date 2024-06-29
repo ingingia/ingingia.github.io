@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingingia.github.io/sitemap
+Sitemap: https://ingingia.github.io/app/sitemap
+Sitemap: https://ingingia.github.io/assets/sitemap
+Sitemap: https://ingingia.github.io/css/sitemap
+Sitemap: https://ingingia.github.io/includes/sitemap
+Sitemap: https://ingingia.github.io/item/sitemap
+Sitemap: https://ingingia.github.io/src/sitemap
